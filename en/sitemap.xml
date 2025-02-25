@@ -17,118 +17,28 @@
   </url><url>
     <loc>http://localhost:1313/posts/a-poem-about-flowers/</loc>
     <lastmod>2024-09-28T12:10:50+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/posts/una-poesia-sui-fiori/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/posts/a-poem-about-flowers/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/flowers/</loc>
     <lastmod>2024-09-28T12:10:50+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tags/fiori/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/flowers/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/no-image/</loc>
     <lastmod>2024-09-28T12:10:50+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tags/no-image/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/no-image/"
-                />
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-09-28T12:10:50+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/posts/"
-                />
   </url><url>
     <loc>http://localhost:1313/pages/research/</loc>
   </url><url>
     <loc>http://localhost:1313/pages/teaching/</loc>
   </url><url>
     <loc>http://localhost:1313/contacts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/contatti/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/contacts/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/foss/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tags/software-libero/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/foss/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/growing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tags/far-crescere/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/growing/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/planting/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/tags/piantare/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/planting/"
-                />
   </url><url>
     <loc>http://localhost:1313/office/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/ufficio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/office/"
-                />
   </url>
 </urlset>
