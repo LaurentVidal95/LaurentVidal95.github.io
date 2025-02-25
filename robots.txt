@@ -2,6 +2,6 @@ User-agent: *
 
 Disallow: /en/404
 
-Disallow: /it/404
+Disallow: /fr/404
 
-Sitemap: http://localhost:1313//sitemap.xml
+Sitemap: http://laurentvidal95.github.io//sitemap.xml
