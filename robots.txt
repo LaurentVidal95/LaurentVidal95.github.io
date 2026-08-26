@@ -1,7 +1,4 @@
 User-agent: *
+Disallow: /404.html
 
-Disallow: /en/404
-
-Disallow: /fr/404
-
-Sitemap: http://laurentvidal95.github.io//sitemap.xml
+Sitemap: https://laurentvidal95.github.io/sitemap.xml
